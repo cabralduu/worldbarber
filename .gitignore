@@ -1,0 +1,11 @@
+# Credenciais — NUNCA subir para o GitHub
+config.php
+
+# Arquivos de utilidade temporária
+test_login.php
+update_admin_password.php
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.log
